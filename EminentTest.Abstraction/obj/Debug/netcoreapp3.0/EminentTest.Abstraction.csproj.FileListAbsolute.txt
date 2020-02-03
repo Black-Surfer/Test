@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\EminentTest\EminentTest.Abstraction\bin\Debug\netcoreapp3.0\EminentTest.Abstraction.deps.json
+C:\Users\user\source\repos\EminentTest\EminentTest.Abstraction\bin\Debug\netcoreapp3.0\EminentTest.Abstraction.runtimeconfig.json
+C:\Users\user\source\repos\EminentTest\EminentTest.Abstraction\bin\Debug\netcoreapp3.0\EminentTest.Abstraction.runtimeconfig.dev.json
+C:\Users\user\source\repos\EminentTest\EminentTest.Abstraction\bin\Debug\netcoreapp3.0\EminentTest.Abstraction.dll
+C:\Users\user\source\repos\EminentTest\EminentTest.Abstraction\bin\Debug\netcoreapp3.0\EminentTest.Abstraction.pdb
+C:\Users\user\source\repos\EminentTest\EminentTest.Abstraction\bin\Debug\netcoreapp3.0\EminentTest.DB.dll
+C:\Users\user\source\repos\EminentTest\EminentTest.Abstraction\bin\Debug\netcoreapp3.0\EminentTest.DB.pdb
+C:\Users\user\source\repos\EminentTest\EminentTest.Abstraction\obj\Debug\netcoreapp3.0\EminentTest.Abstraction.csprojAssemblyReference.cache
+C:\Users\user\source\repos\EminentTest\EminentTest.Abstraction\obj\Debug\netcoreapp3.0\EminentTest.Abstraction.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EminentTest\EminentTest.Abstraction\obj\Debug\netcoreapp3.0\EminentTest.Abstraction.AssemblyInfo.cs
+C:\Users\user\source\repos\EminentTest\EminentTest.Abstraction\obj\Debug\netcoreapp3.0\EminentTest.Abstraction.csproj.CopyComplete
+C:\Users\user\source\repos\EminentTest\EminentTest.Abstraction\obj\Debug\netcoreapp3.0\EminentTest.Abstraction.dll
+C:\Users\user\source\repos\EminentTest\EminentTest.Abstraction\obj\Debug\netcoreapp3.0\EminentTest.Abstraction.pdb

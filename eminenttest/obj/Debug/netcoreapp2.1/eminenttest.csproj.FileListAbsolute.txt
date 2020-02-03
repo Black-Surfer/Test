@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\eminenttest\eminenttest\bin\Debug\netcoreapp2.1\eminenttest.deps.json
+C:\Users\user\source\repos\eminenttest\eminenttest\bin\Debug\netcoreapp2.1\eminenttest.runtimeconfig.json
+C:\Users\user\source\repos\eminenttest\eminenttest\bin\Debug\netcoreapp2.1\eminenttest.runtimeconfig.dev.json
+C:\Users\user\source\repos\eminenttest\eminenttest\bin\Debug\netcoreapp2.1\eminenttest.dll
+C:\Users\user\source\repos\eminenttest\eminenttest\obj\Debug\netcoreapp2.1\eminenttest.csprojAssemblyReference.cache
+C:\Users\user\source\repos\eminenttest\eminenttest\obj\Debug\netcoreapp2.1\eminenttest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\eminenttest\eminenttest\obj\Debug\netcoreapp2.1\eminenttest.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\eminenttest\eminenttest\obj\Debug\netcoreapp2.1\eminenttest.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\eminenttest\eminenttest\obj\Debug\netcoreapp2.1\eminenttest.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\eminenttest\eminenttest\obj\Debug\netcoreapp2.1\eminenttest.AssemblyInfo.cs
+C:\Users\user\source\repos\eminenttest\eminenttest\obj\Debug\netcoreapp2.1\eminenttest.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\eminenttest\eminenttest\bin\Debug\netcoreapp2.1\eminenttest.pdb
+C:\Users\user\source\repos\eminenttest\eminenttest\obj\Debug\netcoreapp2.1\eminenttest.dll
+C:\Users\user\source\repos\eminenttest\eminenttest\obj\Debug\netcoreapp2.1\eminenttest.pdb

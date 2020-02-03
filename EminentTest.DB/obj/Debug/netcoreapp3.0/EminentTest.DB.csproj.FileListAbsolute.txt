@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\EminentTest\EminentTest.DB\bin\Debug\netcoreapp3.0\EminentTest.DB.deps.json
+C:\Users\user\source\repos\EminentTest\EminentTest.DB\bin\Debug\netcoreapp3.0\EminentTest.DB.dll
+C:\Users\user\source\repos\EminentTest\EminentTest.DB\bin\Debug\netcoreapp3.0\EminentTest.DB.pdb
+C:\Users\user\source\repos\EminentTest\EminentTest.DB\obj\Debug\netcoreapp3.0\EminentTest.DB.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EminentTest\EminentTest.DB\obj\Debug\netcoreapp3.0\EminentTest.DB.AssemblyInfo.cs
+C:\Users\user\source\repos\EminentTest\EminentTest.DB\obj\Debug\netcoreapp3.0\EminentTest.DB.dll
+C:\Users\user\source\repos\EminentTest\EminentTest.DB\obj\Debug\netcoreapp3.0\EminentTest.DB.pdb
+C:\Users\user\source\repos\EminentTest\EminentTest.DB\obj\Debug\netcoreapp3.0\EminentTest.DB.csprojAssemblyReference.cache
